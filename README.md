@@ -17,10 +17,16 @@
 
 
 ## 第一周完成内容
-- task1
-- task2
+- 第一个Servlet程序练习
+- Servlet：
+  实现javax.servlet.Servlet接口 
+  继承javax.servlet.GenericServlet类 
+  继承 javax.servlet.http.HttpServlet类
 
 ## 第二周完成内容
-- task1
-- task2
-- task3
+- Servlet基础学习:
+   ServletConfig
+   ServletContext
+   ServletRequest
+   ServletResponse
+
