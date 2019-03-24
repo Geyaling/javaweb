@@ -28,7 +28,9 @@
 	+ ServletResponse
 
 ## 第三周完成内容
-- 完成[13 小结与练习(源码git链接)](https://www.baidu.com/) 要求：
+- 完成[13 小结与练习(源码git链接)](https://github.com/Geyaling/sum01)
+[阿里云地址](http://120.79.241.229:8080/sum01/login.html)
+- 要求：
 	+ 在MySQL数据库中创建一个test_users数据表,添加3个字段：id,username,password,并录入几条记录
 	+ 定义一个login.html里面定义两个请求字段:user password,发送请求到loginServlet
 	+ 在创建一个LoginServlet,在其中获取请求的user，password
