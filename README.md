@@ -18,8 +18,15 @@
 
 ## 第一周完成内容
 - 第一个Servlet程序练习
-- Servlet:   - 实现javax.servlet.Servlet接口   - 继承javax.servlet.GenericServlet类   - 继承javax.servlet.http.HttpServlet类
+- Servlet:
+	+ 实现javax.servlet.Servlet接口
+	+ 继承javax.servlet.GenericServlet类
+	+ 继承javax.servlet.http.HttpServlet类
 
 ## 第二周完成内容
-- Servlet基础学习:   - ServletConfig   - ServletContext    - ServletRequest   - ServletResponse
+- Servlet基础学习:
+	+ ServletConfig
+	+ ServletContext    
+	+ ServletRequest
+	+ ServletResponse
 
