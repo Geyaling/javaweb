@@ -39,8 +39,8 @@
 
 ## 完成内容四
 - 结果：
-        [阿里云地址](http://120.79.241.229:8080/JSP/jsp_session2/login.jsp)
-	[阿里云地址](http://120.79.241.229:8080/JSP/jsp_login/index.jsp)
+	+ [阿里云地址](http://120.79.241.229:8080/JSP/jsp_session2/login.jsp)
+	+ [阿里云地址](http://120.79.241.229:8080/JSP/jsp_login/index.jsp)
 
 - 实现：
 	+ login.jsp：提供登录表单，提交表单请求LoginServlet
