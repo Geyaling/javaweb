@@ -51,3 +51,27 @@
 		+ 失败：保存错误信息到request域，转发到login.jsp(login.jsp显示request域中的错误信息)
 		+ 成功：保存用户信息到session域中，重定向到succ1.jsp页面，显示session域中的用户信息
 	+ succ1.jsp：从session域获取用户信息，如果不存在，显示“您还没有登录”。存在则显示用户信息
+
+## 完成内容五
+- 学习内容：
+	+ JSP指令
+		+ page指令
+		+ include指令
+		+ taglib指令
+	+ JSP九大内置对象
+		+ out
+		+ config
+		+ page
+		+ pageContext
+		+ exception
+		+ request
+		+ response
+		+ application
+		+ session
+	+ EL表达式和EL函数库
+	+ JSTL标签库
+		+ core标签
+		+ fmt标签
+	+ 自定义标签
+	+ MVC设计模式--多多练习
+	
