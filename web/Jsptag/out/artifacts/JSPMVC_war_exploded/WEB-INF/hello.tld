@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<taglib xmlns="http://java.sun.com/xml/ns/javaee"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="http://java.sun.com/xml/ns/javaee http://java.sun.com/xml/ns/javaee/web-jsptaglibrary_2_1.xsd"
+        version="2.1">
+
+    <tlib-version>1.0</tlib-version>
+    <short-name>itcast</short-name>
+    <uri>http://www.itcast.cn/tags/1.0</uri>
+
+    <tag>
+        <name>hello</name>
+        <tag-class>swu.HelloTag</tag-class>
+        <body-content>empty</body-content>
+    </tag>
+    <tag>
+        <name>MyTag01</name>
+        <tag-class>swu.MyTag01</tag-class>
+        <body-content>empty</body-content>
+    </tag>
+    <tag>
+        <name>MyTag02</name>
+        <tag-class>swu.MyTag02</tag-class>
+        <body-content>scriptless</body-content>
+    </tag>
+    <tag>
+        <name>MyTag03</name>
+        <tag-class>swu.MyTag03</tag-class>
+        <body-content>empty</body-content>
+    </tag>
+    <tag>
+        <name>MyTag</name>
+        <tag-class>swu.MyTag</tag-class>
+        <body-content>scriptless</body-content>
+        <attribute>
+            <name>test</name>
+            <required>true</required>
+            <rtexprvalue>true</rtexprvalue>
+        </attribute>
+    </tag>
+</taglib>
